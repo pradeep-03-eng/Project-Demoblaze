@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-20T11:10:51 IST" name="Suite" finished-at="2024-12-20T11:10:57 IST" duration-ms="6298">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T11:10:51 IST" name="Test" finished-at="2024-12-20T11:10:57 IST" duration-ms="6298">
+      <class name="test.TC_001_SignupTest">
+        <test-method is-config="true" signature="reportInitialization()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:51 IST" name="reportInitialization" finished-at="2024-12-20T11:10:51 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportInitialization -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:51 IST" name="setup" finished-at="2024-12-20T11:10:51 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:51 IST" name="testDetails" finished-at="2024-12-20T11:10:51 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:51 IST" name="launchandLoadURL" finished-at="2024-12-20T11:10:54 IST" duration-ms="3364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="signup()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:54 IST" name="signup" finished-at="2024-12-20T11:10:57 IST" duration-ms="2535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:57 IST" name="closeBrowser" finished-at="2024-12-20T11:10:57 IST" duration-ms="363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportclose()[pri:0, instance:test.TC_001_SignupTest@1f2586d6]" started-at="2024-12-20T11:10:57 IST" name="reportclose" finished-at="2024-12-20T11:10:58 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportclose -->
+      </class> <!-- test.TC_001_SignupTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2024-12-20T11:10:58 IST" name="Suite (0)" finished-at="2024-12-20T11:12:09 IST" duration-ms="71041">
+    <groups>
+    </groups>
+    <test started-at="2024-12-20T11:10:58 IST" name="ChromeTest" finished-at="2024-12-20T11:11:30 IST" duration-ms="32410">
+      <class name="test.TC_001_SignupTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_001_SignupTest@7817fd62]" started-at="2024-12-20T11:10:58 IST" name="setup" finished-at="2024-12-20T11:10:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_001_SignupTest@7817fd62]" started-at="2024-12-20T11:10:58 IST" name="testDetails" finished-at="2024-12-20T11:10:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_001_SignupTest@7817fd62]" started-at="2024-12-20T11:10:58 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:00 IST" duration-ms="2896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="signup()[pri:0, instance:test.TC_001_SignupTest@7817fd62]" started-at="2024-12-20T11:11:00 IST" name="signup" finished-at="2024-12-20T11:11:03 IST" duration-ms="2416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_001_SignupTest@7817fd62]" started-at="2024-12-20T11:11:03 IST" name="closeBrowser" finished-at="2024-12-20T11:11:03 IST" duration-ms="251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_001_SignupTest -->
+      <class name="test.TC_005_InvalidLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_005_InvalidLoginTest@2362f559]" started-at="2024-12-20T11:10:58 IST" name="setup" finished-at="2024-12-20T11:10:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_005_InvalidLoginTest@2362f559]" started-at="2024-12-20T11:11:09 IST" name="testDetails" finished-at="2024-12-20T11:11:09 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_005_InvalidLoginTest@2362f559]" started-at="2024-12-20T11:11:09 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:12 IST" duration-ms="2958" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="invalidlogintest()[pri:0, instance:test.TC_005_InvalidLoginTest@2362f559]" started-at="2024-12-20T11:11:12 IST" name="invalidlogintest" finished-at="2024-12-20T11:11:14 IST" duration-ms="2645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlogintest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_005_InvalidLoginTest@2362f559]" started-at="2024-12-20T11:11:14 IST" name="closeBrowser" finished-at="2024-12-20T11:11:15 IST" duration-ms="296" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_005_InvalidLoginTest -->
+      <class name="test.TC_002_LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_002_LoginTest@8297b3a]" started-at="2024-12-20T11:10:58 IST" name="setup" finished-at="2024-12-20T11:10:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_002_LoginTest@8297b3a]" started-at="2024-12-20T11:11:03 IST" name="testDetails" finished-at="2024-12-20T11:11:03 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_002_LoginTest@8297b3a]" started-at="2024-12-20T11:11:03 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:06 IST" duration-ms="2793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="logintest()[pri:0, instance:test.TC_002_LoginTest@8297b3a]" started-at="2024-12-20T11:11:06 IST" name="logintest" finished-at="2024-12-20T11:11:09 IST" duration-ms="2661" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_002_LoginTest@8297b3a]" started-at="2024-12-20T11:11:09 IST" name="closeBrowser" finished-at="2024-12-20T11:11:09 IST" duration-ms="298" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_002_LoginTest -->
+      <class name="test.TC_004_CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_004_CheckoutTest@4c178a76]" started-at="2024-12-20T11:10:58 IST" name="setup" finished-at="2024-12-20T11:10:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_004_CheckoutTest@4c178a76]" started-at="2024-12-20T11:11:23 IST" name="testDetails" finished-at="2024-12-20T11:11:23 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_004_CheckoutTest@4c178a76]" started-at="2024-12-20T11:11:23 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:25 IST" duration-ms="2556" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="CheckoutTest()[pri:0, instance:test.TC_004_CheckoutTest@4c178a76]" started-at="2024-12-20T11:11:25 IST" name="CheckoutTest" finished-at="2024-12-20T11:11:30 IST" duration-ms="4543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_004_CheckoutTest@4c178a76]" started-at="2024-12-20T11:11:30 IST" name="closeBrowser" finished-at="2024-12-20T11:11:30 IST" duration-ms="313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_004_CheckoutTest -->
+      <class name="test.TC_003_ProductSelectionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_003_ProductSelectionTest@b2c9a9c]" started-at="2024-12-20T11:10:58 IST" name="setup" finished-at="2024-12-20T11:10:58 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_003_ProductSelectionTest@b2c9a9c]" started-at="2024-12-20T11:11:15 IST" name="testDetails" finished-at="2024-12-20T11:11:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_003_ProductSelectionTest@b2c9a9c]" started-at="2024-12-20T11:11:15 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:18 IST" duration-ms="2884" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="productselectionTest()[pri:0, instance:test.TC_003_ProductSelectionTest@b2c9a9c]" started-at="2024-12-20T11:11:18 IST" name="productselectionTest" finished-at="2024-12-20T11:11:22 IST" duration-ms="4560" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productselectionTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_003_ProductSelectionTest@b2c9a9c]" started-at="2024-12-20T11:11:22 IST" name="closeBrowser" finished-at="2024-12-20T11:11:23 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_003_ProductSelectionTest -->
+    </test> <!-- ChromeTest -->
+    <test started-at="2024-12-20T11:11:30 IST" name="EdgeTest" finished-at="2024-12-20T11:12:09 IST" duration-ms="38618">
+      <class name="test.TC_001_SignupTest">
+        <test-method is-config="true" signature="reportInitialization()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:10:58 IST" name="reportInitialization" finished-at="2024-12-20T11:10:58 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportInitialization -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:11:30 IST" name="setup" finished-at="2024-12-20T11:11:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:11:30 IST" name="testDetails" finished-at="2024-12-20T11:11:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:11:30 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:33 IST" duration-ms="3114" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="signup()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:11:33 IST" name="signup" finished-at="2024-12-20T11:11:36 IST" duration-ms="2555" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:11:36 IST" name="closeBrowser" finished-at="2024-12-20T11:11:37 IST" duration-ms="1562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="reportclose()[pri:0, instance:test.TC_001_SignupTest@55b0dcab]" started-at="2024-12-20T11:12:09 IST" name="reportclose" finished-at="2024-12-20T11:12:09 IST" duration-ms="60" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportclose -->
+      </class> <!-- test.TC_001_SignupTest -->
+      <class name="test.TC_005_InvalidLoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_005_InvalidLoginTest@2df3b89c]" started-at="2024-12-20T11:11:30 IST" name="setup" finished-at="2024-12-20T11:11:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_005_InvalidLoginTest@2df3b89c]" started-at="2024-12-20T11:11:44 IST" name="testDetails" finished-at="2024-12-20T11:11:44 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_005_InvalidLoginTest@2df3b89c]" started-at="2024-12-20T11:11:44 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:47 IST" duration-ms="2873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="invalidlogintest()[pri:0, instance:test.TC_005_InvalidLoginTest@2df3b89c]" started-at="2024-12-20T11:11:47 IST" name="invalidlogintest" finished-at="2024-12-20T11:11:50 IST" duration-ms="2730" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidlogintest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_005_InvalidLoginTest@2df3b89c]" started-at="2024-12-20T11:11:50 IST" name="closeBrowser" finished-at="2024-12-20T11:11:51 IST" duration-ms="943" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_005_InvalidLoginTest -->
+      <class name="test.TC_002_LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_002_LoginTest@38afe297]" started-at="2024-12-20T11:11:30 IST" name="setup" finished-at="2024-12-20T11:11:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_002_LoginTest@38afe297]" started-at="2024-12-20T11:11:37 IST" name="testDetails" finished-at="2024-12-20T11:11:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_002_LoginTest@38afe297]" started-at="2024-12-20T11:11:37 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:40 IST" duration-ms="2978" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="logintest()[pri:0, instance:test.TC_002_LoginTest@38afe297]" started-at="2024-12-20T11:11:40 IST" name="logintest" finished-at="2024-12-20T11:11:43 IST" duration-ms="2883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_002_LoginTest@38afe297]" started-at="2024-12-20T11:11:43 IST" name="closeBrowser" finished-at="2024-12-20T11:11:44 IST" duration-ms="1390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_002_LoginTest -->
+      <class name="test.TC_004_CheckoutTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_004_CheckoutTest@70325e14]" started-at="2024-12-20T11:11:30 IST" name="setup" finished-at="2024-12-20T11:11:30 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_004_CheckoutTest@70325e14]" started-at="2024-12-20T11:12:00 IST" name="testDetails" finished-at="2024-12-20T11:12:00 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_004_CheckoutTest@70325e14]" started-at="2024-12-20T11:12:00 IST" name="launchandLoadURL" finished-at="2024-12-20T11:12:02 IST" duration-ms="2575" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="CheckoutTest()[pri:0, instance:test.TC_004_CheckoutTest@70325e14]" started-at="2024-12-20T11:12:02 IST" name="CheckoutTest" finished-at="2024-12-20T11:12:07 IST" duration-ms="4729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckoutTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_004_CheckoutTest@70325e14]" started-at="2024-12-20T11:12:07 IST" name="closeBrowser" finished-at="2024-12-20T11:12:09 IST" duration-ms="1448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_004_CheckoutTest -->
+      <class name="test.TC_003_ProductSelectionTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test.TC_003_ProductSelectionTest@23348b5d]" started-at="2024-12-20T11:11:30 IST" name="setup" finished-at="2024-12-20T11:11:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="testDetails()[pri:0, instance:test.TC_003_ProductSelectionTest@23348b5d]" started-at="2024-12-20T11:11:51 IST" name="testDetails" finished-at="2024-12-20T11:11:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDetails -->
+        <test-method is-config="true" signature="launchandLoadURL(java.lang.String,java.lang.String)[pri:0, instance:test.TC_003_ProductSelectionTest@23348b5d]" started-at="2024-12-20T11:11:51 IST" name="launchandLoadURL" finished-at="2024-12-20T11:11:54 IST" duration-ms="2703" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.demoblaze.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchandLoadURL -->
+        <test-method signature="productselectionTest()[pri:0, instance:test.TC_003_ProductSelectionTest@23348b5d]" started-at="2024-12-20T11:11:54 IST" name="productselectionTest" finished-at="2024-12-20T11:11:58 IST" duration-ms="4623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productselectionTest -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test.TC_003_ProductSelectionTest@23348b5d]" started-at="2024-12-20T11:11:58 IST" name="closeBrowser" finished-at="2024-12-20T11:12:00 IST" duration-ms="1488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test.TC_003_ProductSelectionTest -->
+    </test> <!-- EdgeTest -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
